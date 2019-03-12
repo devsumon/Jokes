@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mostofa.jokes">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".bangla" />
+        <activity android:name=".english" />
+        <activity android:name=".about" />
+        <activity android:name=".banglaid1" />
+        <activity android:name=".banglaid2" />
+        <activity android:name=".banglaid3" />
+        <activity android:name=".banglaid4" />
+        <activity android:name=".banglaid5" />
+        <activity android:name=".banglaid6" />
+        <activity android:name=".banglaid7" />
+        <activity android:name=".banglaid8" />
+        <activity android:name=".banglaid9" />
+        <activity android:name=".banglaid10" />
+        <activity android:name=".banglaid11" />
+        <activity android:name=".banglaid12" />
+        <activity android:name=".banglaid13" />
+        <activity android:name=".banglaid14"></activity>
+    </application>
+
+</manifest>

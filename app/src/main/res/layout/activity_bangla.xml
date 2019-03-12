@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".bangla"
+    android:orientation="vertical"
+    android:background="@android:color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/banglaid1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/buttonbangla_text1"
+            android:background="@drawable/shadow"
+            android:textColor="#000"
+
+            />
+
+
+
+
+        <Button
+            android:id="@+id/banglaid2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/buttonbangla_text2"
+            android:background="@drawable/shadow"
+            android:textColor="#000"
+            />
+
+
+        <Button
+            android:id="@+id/banglaid3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shadow"
+            android:text="@string/buttonbangla_text3"/>
+
+        <Button
+            android:id="@+id/banglaid4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shadow"
+            android:text="@string/buttonbangla_text4"/>
+        <Button
+            android:id="@+id/banglaid5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shadow"
+            android:text="@string/buttonbangla_text5"/>
+        <Button
+            android:id="@+id/banglaid6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shadow"
+            android:text="@string/buttonbangla_text6"/>
+        <Button
+            android:id="@+id/banglaid7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shadow"
+            android:text="@string/buttonbangla_text7"/>
+        <Button
+            android:id="@+id/banglaid8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shadow"
+            android:text="@string/buttonbangla_text8"/>
+        <Button
+            android:id="@+id/banglaid9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shadow"
+            android:text="@string/buttonbangla_text9"/>
+        <Button
+            android:id="@+id/banglaid10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shadow"
+            android:text="@string/buttonbangla_text10"/>
+        <Button
+            android:id="@+id/banglaid11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shadow"
+            android:text="@string/buttonbangla_text11"/>
+
+        <Button
+            android:id="@+id/banglaid12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shadow"
+            android:text="@string/buttonbangla_text12"/>
+
+        <Button
+            android:id="@+id/banglaid13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shadow"
+            android:text="@string/buttonbangla_text13"/>
+        <Button
+            android:id="@+id/banglaid14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shadow"
+            android:text="@string/buttonbangla_text14"/>
+
+    </LinearLayout>
+
+
+
+
+</ScrollView>
